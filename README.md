@@ -5,7 +5,7 @@ Projeto Cookmaster desenvolvido para conclusão do bloco 28 do módulo de back-e
 
 Api construída utilizando Node JS, Mondodb, Express, JSON web token, Frisby, Jest
 
-Essa API permite:
+#### Essa API permite:
 
 - Gerar tokens a partir de informações como login e senha;
 
